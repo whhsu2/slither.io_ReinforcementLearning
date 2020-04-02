@@ -1,4 +1,3 @@
-
 import gym
 import universe  # register the universe environments
 import sys
