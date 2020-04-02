@@ -1,8 +1,8 @@
 #  a Slither.io reinforcement learning agent
 
-### Installation Instructions 
-
 <img width="400" alt="portfolio_view" src="slither.gif">
+
+### Installation Instructions 
 
 - Install [Conda](https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-16-04) 
 
